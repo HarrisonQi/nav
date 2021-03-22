@@ -31,7 +31,11 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 阿航极客导航, All Rights Reserved. Powered by <a href="https://github.com/xjh22222228/nav">nav</a></div>
+    <div>Copyright © 2018-现在 <a href="https://geeknav.bugcatt.com/">阿航极客导航</a>, All Rights Reserved. Powered by <a href="https://github.com/xjh22222228/nav" target="_blank">nav</a></div>
+    <div>友情链接:
+        <a href="https://www.bugcatt.com/" target="_blank">阿航的技术小站</a>
+        <a href="https://www.caodanle.com/" target="_blank">秃驴文库</a>
+    <div>
   `,
 
   // 百度统计地址
